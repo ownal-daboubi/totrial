@@ -1,0 +1,38 @@
+
+button {
+color: blue;
+background-color: white;
+
+}
+body{
+    background-color: teal;
+font-family: Arial, Helvetica, sans-serif;
+margin: 0%;
+padding: 0%;
+
+
+}
+header{
+    color: turquoise;
+  padding :10px;
+background-color: white;
+
+}
+section{
+   background-color: black;
+    padding: 10px;
+    color: white;
+}
+footer{
+    background-color: white;
+    padding: 10px 20px;
+}
+ul{
+    padding: 0%;
+    margin: 0%;
+   list-style-type: none ;
+}
+li{
+    display: inline-block;
+    margin: 20px 200px 20px 200px;
+}
